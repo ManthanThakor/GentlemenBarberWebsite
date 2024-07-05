@@ -6,7 +6,7 @@
 This website is a fictional barber shop designed for a modern and sleek look. It features smooth animations on scroll using AOS, a responsive design using Bootstrap, and a slick image slider.
 
 ## Deployment
-The website is deployed and can be viewed at [Gentlemen Barber Website](https://manthanthakor.github.io/Barbar-shop/).
+The website is deployed and can be viewed at [Gentlemen Barber Website](https://manthanthakor.github.io/GentlemenBarberWebsite/).
 
 ## Technologies Used
 - HTML
