@@ -1,6 +1,6 @@
 # Gentlemen Barber Website
 
-![Gentlemen Barber](screenshot.png)
+![Gentlemen Barber](image3.png)
 
 ## Description
 This website is a fictional barber shop designed for a modern and sleek look. It features smooth animations on scroll using AOS, a responsive design using Bootstrap, and a slick image slider.
@@ -28,8 +28,8 @@ git clone https://github.com/ManthanThakor/Barbar-shop.git
 3. Open `index.html` in your web browser.
 
 ## Screenshots
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](image.png)
+![Screenshot 2](image2.png)
 <!-- Add more screenshots if necessary -->
 
 ## Contributing
